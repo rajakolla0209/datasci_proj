@@ -1,6 +1,4 @@
-# datasci_proj
-
-Project 1: Daily-data-reservoir-level-central-water-commission-cwc-agency-during-august-2023
+# Project 1: Daily-data-reservoir-level-central-water-commission-cwc-agency-during-august-2023
 
 data set :-
 https://data.gov.in/resource/daily-data-reservoir-level-central-water-commission-cwc-agency-during-august-2023
