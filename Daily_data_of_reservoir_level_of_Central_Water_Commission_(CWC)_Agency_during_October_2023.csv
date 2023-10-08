@@ -1,0 +1,596 @@
+Reservoir_name,Basin,Subbasin,Agency_name,Lat,Long,Date,Year,Month,Full_reservoir_level,Live_capacity_FRL,Storage,Level
+Aliyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.47266817,76.97459708,01-10-23,2023,10,320.04,0.095,0.00312,301.965
+Aliyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.47266817,76.97459708,02-10-23,2023,10,320.04,0.095,0.00351,302.087
+Aliyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.47266817,76.97459708,03-10-23,2023,10,320.04,0.095,0.00447,302.392
+Aliyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.47266817,76.97459708,04-10-23,2023,10,320.04,0.095,0.00524,302.636
+Aliyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.47266817,76.97459708,05-10-23,2023,10,320.04,0.095,0.00572,302.788
+Almatti Reservoir,Krishna Basin,Krishna Upper,CWC,16.34679294,75.73004306,01-10-23,2023,10,519.6,3.105,2.578,518.73
+Almatti Reservoir,Krishna Basin,Krishna Upper,CWC,16.34679294,75.73004306,02-10-23,2023,10,519.6,3.105,2.587,518.75
+Almatti Reservoir,Krishna Basin,Krishna Upper,CWC,16.34679294,75.73004306,03-10-23,2023,10,519.6,3.105,2.609,518.8
+Almatti Reservoir,Krishna Basin,Krishna Upper,CWC,16.34679294,75.73004306,04-10-23,2023,10,519.6,3.105,2.677,518.95
+Almatti Reservoir,Krishna Basin,Krishna Upper,CWC,16.34679294,75.73004306,05-10-23,2023,10,519.6,3.105,2.69,518.98
+Balimela Reservoir,Godavari Basin,Godavari Lower,CWC,18.22494359,82.20423569,01-10-23,2023,10,462.08,2.676,NA,NA
+Balimela Reservoir,Godavari Basin,Godavari Lower,CWC,18.22494359,82.20423569,02-10-23,2023,10,462.08,2.676,NA,NA
+Balimela Reservoir,Godavari Basin,Godavari Lower,CWC,18.22494359,82.20423569,03-10-23,2023,10,462.08,2.676,NA,NA
+Balimela Reservoir,Godavari Basin,Godavari Lower,CWC,18.22494359,82.20423569,04-10-23,2023,10,462.08,2.676,NA,NA
+Balimela Reservoir,Godavari Basin,Godavari Lower,CWC,18.22494359,82.20423569,05-10-23,2023,10,462.08,2.676,1.412,453.816
+Ban Sagar,Ganga Basin,Sone,CWC,24.11161168,81.09238214,01-10-23,2023,10,341.64,5.166,NA,NA
+Ban Sagar,Ganga Basin,Sone,CWC,24.11161168,81.09238214,02-10-23,2023,10,341.64,5.166,NA,NA
+Ban Sagar,Ganga Basin,Sone,CWC,24.11161168,81.09238214,03-10-23,2023,10,341.64,5.166,NA,NA
+Ban Sagar,Ganga Basin,Sone,CWC,24.11161168,81.09238214,04-10-23,2023,10,341.64,5.166,NA,NA
+Ban Sagar,Ganga Basin,Sone,CWC,24.11161168,81.09238214,05-10-23,2023,10,341.64,5.166,5.14676,341.43
+Bargi\Rani Avanti Bai Sagar,Narmada Basin,Narmada Upper,CWC,22.83846247,80.03685961,01-10-23,2023,10,422.76,3.18,3.1595,423
+Bargi\Rani Avanti Bai Sagar,Narmada Basin,Narmada Upper,CWC,22.83846247,80.03685961,02-10-23,2023,10,422.76,3.18,3.1595,423
+Bargi\Rani Avanti Bai Sagar,Narmada Basin,Narmada Upper,CWC,22.83846247,80.03685961,03-10-23,2023,10,422.76,3.18,3.1595,422.95
+Bargi\Rani Avanti Bai Sagar,Narmada Basin,Narmada Upper,CWC,22.83846247,80.03685961,04-10-23,2023,10,422.76,3.18,3.1595,422.9
+Bargi\Rani Avanti Bai Sagar,Narmada Basin,Narmada Upper,CWC,22.83846247,80.03685961,05-10-23,2023,10,422.76,3.18,3.1595,422.85
+Barna,Narmada Basin,Narmada Upper,CWC,23.07370541,78.03031691,01-10-23,2023,10,348.55,0.456,0.42931,348.18
+Barna,Narmada Basin,Narmada Upper,CWC,23.07370541,78.03031691,02-10-23,2023,10,348.55,0.456,0.42931,348.18
+Barna,Narmada Basin,Narmada Upper,CWC,23.07370541,78.03031691,03-10-23,2023,10,348.55,0.456,0.42,348.06
+Barna,Narmada Basin,Narmada Upper,CWC,23.07370541,78.03031691,04-10-23,2023,10,348.55,0.456,0.41642,348
+Barna,Narmada Basin,Narmada Upper,CWC,23.07370541,78.03031691,05-10-23,2023,10,348.55,0.456,0.41642,348
+Bhadar Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Bhadar and other west flowing rivers,CWC,21.81878581,70.80816294,01-10-23,2023,10,107.89,0.188,0.17179,107.53
+Bhadar Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Bhadar and other west flowing rivers,CWC,21.81878581,70.80816294,02-10-23,2023,10,107.89,0.188,0.17179,107.53
+Bhadar Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Bhadar and other west flowing rivers,CWC,21.81878581,70.80816294,03-10-23,2023,10,107.89,0.188,0.17279,107.55
+Bhadar Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Bhadar and other west flowing rivers,CWC,21.81878581,70.80816294,04-10-23,2023,10,107.89,0.188,0.17279,107.55
+Bhadar Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Bhadar and other west flowing rivers,CWC,21.81878581,70.80816294,05-10-23,2023,10,107.89,0.188,0.17279,107.55
+Bhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,13.64683326,75.57523868,01-10-23,2023,10,657.76,1.785,0.96419,649.712
+Bhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,13.64683326,75.57523868,02-10-23,2023,10,657.76,1.785,0.96136,649.681
+Bhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,13.64683326,75.57523868,03-10-23,2023,10,657.76,1.785,0.95542,649.611
+Bhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,13.64683326,75.57523868,04-10-23,2023,10,657.76,1.785,0.94947,649.541
+Bhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,13.64683326,75.57523868,05-10-23,2023,10,657.76,1.785,0.94352,649.471
+Bhandardara,Godavari Basin,Godavari Upper,CWC,19.53360841,73.73667121,01-10-23,2023,10,744.91,0.304,0.30372,744.73
+Bhandardara,Godavari Basin,Godavari Upper,CWC,19.53360841,73.73667121,02-10-23,2023,10,744.91,0.304,0.30372,744.73
+Bhandardara,Godavari Basin,Godavari Upper,CWC,19.53360841,73.73667121,03-10-23,2023,10,744.91,0.304,0.30372,744.73
+Bhandardara,Godavari Basin,Godavari Upper,CWC,19.53360841,73.73667121,04-10-23,2023,10,744.91,0.304,0.30372,744.73
+Bhandardara,Godavari Basin,Godavari Upper,CWC,19.53360841,73.73667121,05-10-23,2023,10,744.91,0.304,0.30372,744.73
+Bhatghar,Krishna Basin,Bhima Upper,CWC,18.19950638,73.77891971,01-10-23,2023,10,623.28,0.673,NA,NA
+Bhatghar,Krishna Basin,Bhima Upper,CWC,18.19950638,73.77891971,02-10-23,2023,10,623.28,0.673,NA,NA
+Bhatghar,Krishna Basin,Bhima Upper,CWC,18.19950638,73.77891971,03-10-23,2023,10,623.28,0.673,NA,NA
+Bhatghar,Krishna Basin,Bhima Upper,CWC,18.19950638,73.77891971,04-10-23,2023,10,623.28,0.673,NA,NA
+Bhatghar,Krishna Basin,Bhima Upper,CWC,18.19950638,73.77891971,05-10-23,2023,10,623.28,0.673,0.67265,623.28
+Bhatsa,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.53243081,73.44134616,01-10-23,2023,10,142.07,0.942,0.93623,141.8
+Bhatsa,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.53243081,73.44134616,02-10-23,2023,10,142.07,0.942,0.93858,141.88
+Bhatsa,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.53243081,73.44134616,03-10-23,2023,10,142.07,0.942,0.93975,141.92
+Bhatsa,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.53243081,73.44134616,04-10-23,2023,10,142.07,0.942,0.94034,141.94
+Bhatsa,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.53243081,73.44134616,05-10-23,2023,10,142.07,0.942,0.94034,142.07
+Bhima\Ujjani Reservoir,Krishna Basin,Bhima Upper,CWC,18.20876823,75.0103563,01-10-23,2023,10,496.83,1.517,NA,NA
+Bhima\Ujjani Reservoir,Krishna Basin,Bhima Upper,CWC,18.20876823,75.0103563,02-10-23,2023,10,496.83,1.517,NA,NA
+Bhima\Ujjani Reservoir,Krishna Basin,Bhima Upper,CWC,18.20876823,75.0103563,03-10-23,2023,10,496.83,1.517,NA,NA
+Bhima\Ujjani Reservoir,Krishna Basin,Bhima Upper,CWC,18.20876823,75.0103563,04-10-23,2023,10,496.83,1.517,NA,NA
+Bhima\Ujjani Reservoir,Krishna Basin,Bhima Upper,CWC,18.20876823,75.0103563,05-10-23,2023,10,496.83,1.517,0.83206,494.585
+Bisalpur,Ganga Basin,Banas,CWC,25.9246602,75.453854,01-10-23,2023,10,315.5,1.076,0.75404,313.76
+Bisalpur,Ganga Basin,Banas,CWC,25.9246602,75.453854,02-10-23,2023,10,315.5,1.076,0.75404,313.76
+Bisalpur,Ganga Basin,Banas,CWC,25.9246602,75.453854,03-10-23,2023,10,315.5,1.076,0.75404,313.76
+Bisalpur,Ganga Basin,Banas,CWC,25.9246602,75.453854,04-10-23,2023,10,315.5,1.076,0.75404,313.76
+Bisalpur,Ganga Basin,Banas,CWC,25.9246602,75.453854,05-10-23,2023,10,315.5,1.076,0.75404,313.76
+Brahmani-I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.87800273,71.14656594,01-10-23,2023,10,64.62,0.071,NA,NA
+Brahmani-I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.87800273,71.14656594,02-10-23,2023,10,64.62,0.071,NA,NA
+Brahmani-I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.87800273,71.14656594,03-10-23,2023,10,64.62,0.071,NA,NA
+Brahmani-I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.87800273,71.14656594,04-10-23,2023,10,64.62,0.071,NA,NA
+Brahmani-I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.87800273,71.14656594,05-10-23,2023,10,64.62,0.071,NA,NA
+Damanganga Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,20.18421909,73.1118834,01-10-23,2023,10,79.86,0.502,NA,NA
+Damanganga Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,20.18421909,73.1118834,02-10-23,2023,10,79.86,0.502,NA,NA
+Damanganga Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,20.18421909,73.1118834,03-10-23,2023,10,79.86,0.502,NA,NA
+Damanganga Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,20.18421909,73.1118834,04-10-23,2023,10,79.86,0.502,NA,NA
+Damanganga Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,20.18421909,73.1118834,05-10-23,2023,10,79.86,0.502,NA,NA
+Dantiwada Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,24.33018862,72.38876378,01-10-23,2023,10,184.1,0.399,0.38741,184.1
+Dantiwada Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,24.33018862,72.38876378,02-10-23,2023,10,184.1,0.399,0.38741,184.1
+Dantiwada Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,24.33018862,72.38876378,03-10-23,2023,10,184.1,0.399,0.38741,184.1
+Dantiwada Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,24.33018862,72.38876378,04-10-23,2023,10,184.1,0.399,0.38741,184.1
+Dantiwada Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,24.33018862,72.38876378,05-10-23,2023,10,184.1,0.399,0.38741,184.1
+Dhom,Krishna Basin,Krishna Upper,CWC,17.97878716,73.7854294,01-10-23,2023,10,747.7,0.331,0.24272,743.42
+Dhom,Krishna Basin,Krishna Upper,CWC,17.97878716,73.7854294,02-10-23,2023,10,747.7,0.331,0.24272,743.61
+Dhom,Krishna Basin,Krishna Upper,CWC,17.97878716,73.7854294,03-10-23,2023,10,747.7,0.331,0.24501,743.73
+Dhom,Krishna Basin,Krishna Upper,CWC,17.97878716,73.7854294,04-10-23,2023,10,747.7,0.331,0.24501,743.83
+Dhom,Krishna Basin,Krishna Upper,CWC,17.97878716,73.7854294,05-10-23,2023,10,747.7,0.331,0.24779,743.87
+Doyang Hep,Brahamaputra Basin,Brahmaputra Upper,CWC,26.22664352,94.29556638,01-10-23,2023,10,333,0.5351,0.323,319.75
+Doyang Hep,Brahamaputra Basin,Brahmaputra Upper,CWC,26.22664352,94.29556638,02-10-23,2023,10,333,0.5351,0.322,319.65
+Doyang Hep,Brahamaputra Basin,Brahmaputra Upper,CWC,26.22664352,94.29556638,03-10-23,2023,10,333,0.5351,0.321,319.55
+Doyang Hep,Brahamaputra Basin,Brahmaputra Upper,CWC,26.22664352,94.29556638,04-10-23,2023,10,333,0.5351,0.319,319.45
+Doyang Hep,Brahamaputra Basin,Brahmaputra Upper,CWC,26.22664352,94.29556638,05-10-23,2023,10,333,0.5351,0.316,319.25
+Dudhawa,Mahanadi Basin,Mahanadi Middle,CWC,20.3062635,81.7741343,01-10-23,2023,10,425.1,0.284,NA,NA
+Dudhawa,Mahanadi Basin,Mahanadi Middle,CWC,20.3062635,81.7741343,02-10-23,2023,10,425.1,0.284,NA,NA
+Dudhawa,Mahanadi Basin,Mahanadi Middle,CWC,20.3062635,81.7741343,03-10-23,2023,10,425.1,0.284,NA,NA
+Dudhawa,Mahanadi Basin,Mahanadi Middle,CWC,20.3062635,81.7741343,04-10-23,2023,10,425.1,0.284,NA,NA
+Dudhawa,Mahanadi Basin,Mahanadi Middle,CWC,20.3062635,81.7741343,05-10-23,2023,10,425.1,0.284,NA,NA
+Dudhganga,Krishna Basin,Krishna Upper,CWC,16.31720783,73.97231364,01-10-23,2023,10,646,0.664,0.66367,645.18
+Dudhganga,Krishna Basin,Krishna Upper,CWC,16.31720783,73.97231364,02-10-23,2023,10,646,0.664,0.66367,645.27
+Dudhganga,Krishna Basin,Krishna Upper,CWC,16.31720783,73.97231364,03-10-23,2023,10,646,0.664,0.66367,645.27
+Dudhganga,Krishna Basin,Krishna Upper,CWC,16.31720783,73.97231364,04-10-23,2023,10,646,0.664,0.66367,645.27
+Dudhganga,Krishna Basin,Krishna Upper,CWC,16.31720783,73.97231364,05-10-23,2023,10,646,0.664,0.66367,645.23
+Gandhi Sagar,Ganga Basin,Chambal Upper,CWC,24.52716485,75.56271289,01-10-23,2023,10,399.9,6.827,NA,NA
+Gandhi Sagar,Ganga Basin,Chambal Upper,CWC,24.52716485,75.56271289,02-10-23,2023,10,399.9,6.827,NA,NA
+Gandhi Sagar,Ganga Basin,Chambal Upper,CWC,24.52716485,75.56271289,03-10-23,2023,10,399.9,6.827,NA,NA
+Gandhi Sagar,Ganga Basin,Chambal Upper,CWC,24.52716485,75.56271289,04-10-23,2023,10,399.9,6.827,NA,NA
+Gandhi Sagar,Ganga Basin,Chambal Upper,CWC,24.52716485,75.56271289,05-10-23,2023,10,399.9,6.827,6.49547,399.71
+Gerusoppa Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.25619412,74.70576516,01-10-23,2023,10,55,0.13,0.09461,48.55
+Gerusoppa Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.25619412,74.70576516,02-10-23,2023,10,55,0.13,0.10111,49.83
+Gerusoppa Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.25619412,74.70576516,03-10-23,2023,10,55,0.13,0.10586,50.74
+Gerusoppa Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.25619412,74.70576516,04-10-23,2023,10,55,0.13,0.09657,48.95
+Gerusoppa Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.25619412,74.70576516,05-10-23,2023,10,55,0.13,0.09451,48.53
+GhatPrabha\Hidkal Reservoir,Krishna Basin,Krishna Upper,CWC,16.13146866,74.59531002,01-10-23,2023,10,662.95,1.391,1.21338,660.553
+GhatPrabha\Hidkal Reservoir,Krishna Basin,Krishna Upper,CWC,16.13146866,74.59531002,02-10-23,2023,10,662.95,1.391,1.2383,660.898
+GhatPrabha\Hidkal Reservoir,Krishna Basin,Krishna Upper,CWC,16.13146866,74.59531002,03-10-23,2023,10,662.95,1.391,1.25954,661.187
+GhatPrabha\Hidkal Reservoir,Krishna Basin,Krishna Upper,CWC,16.13146866,74.59531002,04-10-23,2023,10,662.95,1.391,1.27143,661.349
+GhatPrabha\Hidkal Reservoir,Krishna Basin,Krishna Upper,CWC,16.13146866,74.59531002,05-10-23,2023,10,662.95,1.391,1.28078,661.477
+Girna Reservoir,Tapi Basin,Tapi Middle,CWC,20.49190037,74.68355397,01-10-23,2023,10,398.07,0.524,0.29858,393.2
+Girna Reservoir,Tapi Basin,Tapi Middle,CWC,20.49190037,74.68355397,02-10-23,2023,10,398.07,0.524,0.29858,393.2
+Girna Reservoir,Tapi Basin,Tapi Middle,CWC,20.49190037,74.68355397,03-10-23,2023,10,398.07,0.524,0.29858,393.2
+Girna Reservoir,Tapi Basin,Tapi Middle,CWC,20.49190037,74.68355397,04-10-23,2023,10,398.07,0.524,0.29858,393.2
+Girna Reservoir,Tapi Basin,Tapi Middle,CWC,20.49190037,74.68355397,05-10-23,2023,10,398.07,0.524,0.29858,393.2
+Gobind Sagar-Bhakra Reservoir,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.38855077,76.53720479,01-10-23,2023,10,512.06,6.229,5.31831,509.91
+Gobind Sagar-Bhakra Reservoir,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.38855077,76.53720479,02-10-23,2023,10,512.06,6.229,5.30118,509.8
+Gobind Sagar-Bhakra Reservoir,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.38855077,76.53720479,03-10-23,2023,10,512.06,6.229,5.28072,509.67
+Gobind Sagar-Bhakra Reservoir,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.38855077,76.53720479,04-10-23,2023,10,512.06,6.229,5.25884,509.53
+Gobind Sagar-Bhakra Reservoir,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.38855077,76.53720479,05-10-23,2023,10,512.06,6.229,5.22221,509.29
+Gumti Reservoir,Barak and Others Basin,Naoch chara and others,CWC,23.47696886,91.84886953,01-10-23,2023,10,93.55,0.3121,NA,NA
+Gumti Reservoir,Barak and Others Basin,Naoch chara and others,CWC,23.47696886,91.84886953,02-10-23,2023,10,93.55,0.3121,NA,NA
+Gumti Reservoir,Barak and Others Basin,Naoch chara and others,CWC,23.47696886,91.84886953,03-10-23,2023,10,93.55,0.3121,NA,NA
+Gumti Reservoir,Barak and Others Basin,Naoch chara and others,CWC,23.47696886,91.84886953,04-10-23,2023,10,93.55,0.3121,NA,NA
+Gumti Reservoir,Barak and Others Basin,Naoch chara and others,CWC,23.47696886,91.84886953,05-10-23,2023,10,93.55,0.3121,0.203,91.1
+Harangi Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.49243766,75.87487265,01-10-23,2023,10,871.42,0.22,0.17598,870.039
+Harangi Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.49243766,75.87487265,02-10-23,2023,10,871.42,0.22,0.18,870.167
+Harangi Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.49243766,75.87487265,03-10-23,2023,10,871.42,0.22,0.18269,870.253
+Harangi Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.49243766,75.87487265,04-10-23,2023,10,871.42,0.22,0.18402,870.295
+Harangi Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.49243766,75.87487265,05-10-23,2023,10,871.42,0.22,0.18479,870.32
+Hathmati,Sabarmati Basin,Sabarmati Upper,CWC,23.71012116,73.20770095,01-10-23,2023,10,180.74,0.153,0.07074,178.64
+Hathmati,Sabarmati Basin,Sabarmati Upper,CWC,23.71012116,73.20770095,02-10-23,2023,10,180.74,0.153,0.07074,178.64
+Hathmati,Sabarmati Basin,Sabarmati Upper,CWC,23.71012116,73.20770095,03-10-23,2023,10,180.74,0.153,0.07074,178.64
+Hathmati,Sabarmati Basin,Sabarmati Upper,CWC,23.71012116,73.20770095,04-10-23,2023,10,180.74,0.153,0.07074,178.64
+Hathmati,Sabarmati Basin,Sabarmati Upper,CWC,23.71012116,73.20770095,05-10-23,2023,10,180.74,0.153,0.07074,178.64
+Hemavathy Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.82820487,76.00971821,01-10-23,2023,10,890.63,0.927,0.40744,883.42
+Hemavathy Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.82820487,76.00971821,02-10-23,2023,10,890.63,0.927,0.42596,883.774
+Hemavathy Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.82820487,76.00971821,03-10-23,2023,10,890.63,0.927,0.42961,883.844
+Hemavathy Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.82820487,76.00971821,04-10-23,2023,10,890.63,0.927,0.43454,883.935
+Hemavathy Reservoir,Cauvery Basin,Cauvery Upper,CWC,12.82820487,76.00971821,05-10-23,2023,10,890.63,0.927,0.43701,883.975
+Hirakud Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,21.63383268,83.80547031,01-10-23,2023,10,192.02,5.378,NA,NA
+Hirakud Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,21.63383268,83.80547031,02-10-23,2023,10,192.02,5.378,NA,NA
+Hirakud Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,21.63383268,83.80547031,03-10-23,2023,10,192.02,5.378,NA,NA
+Hirakud Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,21.63383268,83.80547031,04-10-23,2023,10,192.02,5.378,4.69702,191.83
+Hirakud Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,21.63383268,83.80547031,05-10-23,2023,10,192.02,5.378,4.70442,191.84
+Idamalayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.24545527,76.74690313,01-10-23,2023,10,169,1.018,0.55494,151.708
+Idamalayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.24545527,76.74690313,02-10-23,2023,10,169,1.018,0.56768,152.26
+Idamalayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.24545527,76.74690313,03-10-23,2023,10,169,1.018,0.57718,152.668
+Idamalayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.24545527,76.74690313,04-10-23,2023,10,169,1.018,0.58343,152.939
+Idamalayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.24545527,76.74690313,05-10-23,2023,10,169,1.018,0.58813,153.141
+Idukki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.78847361,76.97474677,01-10-23,2023,10,732.43,1.46,0.56351,713.653
+Idukki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.78847361,76.97474677,02-10-23,2023,10,732.43,1.46,0.58781,714.256
+Idukki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.78847361,76.97474677,03-10-23,2023,10,732.43,1.46,0.60625,714.713
+Idukki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.78847361,76.97474677,04-10-23,2023,10,732.43,1.46,0.6178,715
+Idukki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.78847361,76.97474677,05-10-23,2023,10,732.43,1.46,0.62616,715.207
+Indira Sagar,Narmada Basin,Narmada Middle,CWC,22.19722862,76.65599861,01-10-23,2023,10,262.13,9.745,NA,NA
+Indira Sagar,Narmada Basin,Narmada Middle,CWC,22.19722862,76.65599861,02-10-23,2023,10,262.13,9.745,NA,NA
+Indira Sagar,Narmada Basin,Narmada Middle,CWC,22.19722862,76.65599861,03-10-23,2023,10,262.13,9.745,NA,NA
+Indira Sagar,Narmada Basin,Narmada Middle,CWC,22.19722862,76.65599861,04-10-23,2023,10,262.13,9.745,NA,NA
+Indira Sagar,Narmada Basin,Narmada Middle,CWC,22.19722862,76.65599861,05-10-23,2023,10,262.13,9.745,9.258,262.1
+Isapur Reservoir,Godavari Basin,Wardha,CWC,19.77413873,77.37657599,01-10-23,2023,10,441,0.965,0.80439,439.26
+Isapur Reservoir,Godavari Basin,Wardha,CWC,19.77413873,77.37657599,02-10-23,2023,10,441,0.965,0.80968,439.32
+Isapur Reservoir,Godavari Basin,Wardha,CWC,19.77413873,77.37657599,03-10-23,2023,10,441,0.965,0.81056,439.33
+Isapur Reservoir,Godavari Basin,Wardha,CWC,19.77413873,77.37657599,04-10-23,2023,10,441,0.965,0.81145,439.34
+Isapur Reservoir,Godavari Basin,Wardha,CWC,19.77413873,77.37657599,05-10-23,2023,10,441,0.965,0.81233,439.35
+Jayakwadi\Nath Sagar,Godavari Basin,Godavari Upper,CWC,19.52917218,75.24566805,01-10-23,2023,10,463.91,2.171,0.98089,460.333
+Jayakwadi\Nath Sagar,Godavari Basin,Godavari Upper,CWC,19.52917218,75.24566805,02-10-23,2023,10,463.91,2.171,1.00898,460.428
+Jayakwadi\Nath Sagar,Godavari Basin,Godavari Upper,CWC,19.52917218,75.24566805,03-10-23,2023,10,463.91,2.171,1.26268,460.486
+Jayakwadi\Nath Sagar,Godavari Basin,Godavari Upper,CWC,19.52917218,75.24566805,04-10-23,2023,10,463.91,2.171,1.34627,460.513
+Jayakwadi\Nath Sagar,Godavari Basin,Godavari Upper,CWC,19.52917218,75.24566805,05-10-23,2023,10,463.91,2.171,1.03741,460.522
+Jhakam Reservoir,Mahi Basin,Mahi Upper,CWC,24.16180454,74.62252237,01-10-23,2023,10,359.5,0.132,0.10126,356.35
+Jhakam Reservoir,Mahi Basin,Mahi Upper,CWC,24.16180454,74.62252237,02-10-23,2023,10,359.5,0.132,0.10206,356.45
+Jhakam Reservoir,Mahi Basin,Mahi Upper,CWC,24.16180454,74.62252237,03-10-23,2023,10,359.5,0.132,0.10246,356.5
+Jhakam Reservoir,Mahi Basin,Mahi Upper,CWC,24.16180454,74.62252237,04-10-23,2023,10,359.5,0.132,0.10294,356.55
+Jhakam Reservoir,Mahi Basin,Mahi Upper,CWC,24.16180454,74.62252237,05-10-23,2023,10,359.5,0.132,0.10342,356.6
+Jirgo Dam,Ganga Basin,Upstream of Gomti confluece to Muzaffarnagar,CWC,25.0267409,82.9311989,01-10-23,2023,10,98.2,0.147,0.00253,90.51
+Jirgo Dam,Ganga Basin,Upstream of Gomti confluece to Muzaffarnagar,CWC,25.0267409,82.9311989,02-10-23,2023,10,98.2,0.147,0.00253,90.51
+Jirgo Dam,Ganga Basin,Upstream of Gomti confluece to Muzaffarnagar,CWC,25.0267409,82.9311989,03-10-23,2023,10,98.2,0.147,0.0026,90.6
+Jirgo Dam,Ganga Basin,Upstream of Gomti confluece to Muzaffarnagar,CWC,25.0267409,82.9311989,04-10-23,2023,10,98.2,0.147,0.00279,90.85
+Jirgo Dam,Ganga Basin,Upstream of Gomti confluece to Muzaffarnagar,CWC,25.0267409,82.9311989,05-10-23,2023,10,98.2,0.147,0.0029,91
+Kabini Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.95500864,76.2867207,01-10-23,2023,10,696.66,0.444,0.27773,693.069
+Kabini Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.95500864,76.2867207,02-10-23,2023,10,696.66,0.444,0.29526,693.42
+Kabini Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.95500864,76.2867207,03-10-23,2023,10,696.66,0.444,0.30603,693.633
+Kabini Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.95500864,76.2867207,04-10-23,2023,10,696.66,0.444,0.31155,693.743
+Kabini Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.95500864,76.2867207,05-10-23,2023,10,696.66,0.444,0.31498,693.81
+Kadana Reservoir,Mahi Basin,Mahi Upper,CWC,23.34196607,73.89320231,01-10-23,2023,10,127.7,1.472,1.18919,127.69
+Kadana Reservoir,Mahi Basin,Mahi Upper,CWC,23.34196607,73.89320231,02-10-23,2023,10,127.7,1.472,1.1917,127.71
+Kadana Reservoir,Mahi Basin,Mahi Upper,CWC,23.34196607,73.89320231,03-10-23,2023,10,127.7,1.472,1.1917,127.71
+Kadana Reservoir,Mahi Basin,Mahi Upper,CWC,23.34196607,73.89320231,04-10-23,2023,10,127.7,1.472,1.1917,127.71
+Kadana Reservoir,Mahi Basin,Mahi Upper,CWC,23.34196607,73.89320231,05-10-23,2023,10,127.7,1.472,1.1917,127.71
+Kakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.30465879,77.16754045,01-10-23,2023,10,981.46,0.447,0.26108,968.441
+Kakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.30465879,77.16754045,02-10-23,2023,10,981.46,0.447,0.27269,969.419
+Kakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.30465879,77.16754045,03-10-23,2023,10,981.46,0.447,0.28062,970.069
+Kakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.30465879,77.16754045,04-10-23,2023,10,981.46,0.447,0.28543,970.468
+Kakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.30465879,77.16754045,05-10-23,2023,10,981.46,0.447,0.2894,970.788
+Kallada Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,8.92000098,77.12459672,01-10-23,2023,10,115.82,0.507,0.37546,110.691
+Kallada Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,8.92000098,77.12459672,02-10-23,2023,10,115.82,0.507,0.39578,111.67
+Kallada Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,8.92000098,77.12459672,03-10-23,2023,10,115.82,0.507,0.40761,112.24
+Kallada Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,8.92000098,77.12459672,04-10-23,2023,10,115.82,0.507,0.41369,112.56
+Kallada Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,8.92000098,77.12459672,05-10-23,2023,10,115.82,0.507,0.41825,112.8
+Kangsabati Reservoir,Ganga Basin,Damodar,CWC,22.97855586,86.72104725,01-10-23,2023,10,134.14,0.914,0.518,129.17
+Kangsabati Reservoir,Ganga Basin,Damodar,CWC,22.97855586,86.72104725,02-10-23,2023,10,134.14,0.914,0.706,131.52
+Kangsabati Reservoir,Ganga Basin,Damodar,CWC,22.97855586,86.72104725,03-10-23,2023,10,134.14,0.914,0.739,131.86
+Kangsabati Reservoir,Ganga Basin,Damodar,CWC,22.97855586,86.72104725,04-10-23,2023,10,134.14,0.914,0.727,131.73
+Kangsabati Reservoir,Ganga Basin,Damodar,CWC,22.97855586,86.72104725,05-10-23,2023,10,134.14,0.914,0.72,131.66
+Kanher Dam,Krishna Basin,Krishna Upper,CWC,17.758849,73.872011,01-10-23,2023,10,690.78,0.272,NA,NA
+Kanher Dam,Krishna Basin,Krishna Upper,CWC,17.758849,73.872011,02-10-23,2023,10,690.78,0.272,NA,NA
+Kanher Dam,Krishna Basin,Krishna Upper,CWC,17.758849,73.872011,03-10-23,2023,10,690.78,0.272,NA,NA
+Kanher Dam,Krishna Basin,Krishna Upper,CWC,17.758849,73.872011,04-10-23,2023,10,690.78,0.272,NA,NA
+Kanher Dam,Krishna Basin,Krishna Upper,CWC,17.758849,73.872011,05-10-23,2023,10,690.78,0.272,0.21862,687.73
+Karjan Reservoir,Narmada Basin,Narmada Lower,CWC,21.77573622,73.53228855,01-10-23,2023,10,115.25,0.523,NA,NA
+Karjan Reservoir,Narmada Basin,Narmada Lower,CWC,21.77573622,73.53228855,02-10-23,2023,10,115.25,0.523,NA,NA
+Karjan Reservoir,Narmada Basin,Narmada Lower,CWC,21.77573622,73.53228855,03-10-23,2023,10,115.25,0.523,NA,NA
+Karjan Reservoir,Narmada Basin,Narmada Lower,CWC,21.77573622,73.53228855,04-10-23,2023,10,115.25,0.523,NA,NA
+Karjan Reservoir,Narmada Basin,Narmada Lower,CWC,21.77573622,73.53228855,05-10-23,2023,10,115.25,0.523,NA,NA
+Khadakwasla Reservoir,Krishna Basin,Bhima Upper,CWC,18.4148564,73.73248902,01-10-23,2023,10,582.47,0.06,0.05591,582.47
+Khadakwasla Reservoir,Krishna Basin,Bhima Upper,CWC,18.4148564,73.73248902,02-10-23,2023,10,582.47,0.06,0.05591,582.47
+Khadakwasla Reservoir,Krishna Basin,Bhima Upper,CWC,18.4148564,73.73248902,03-10-23,2023,10,582.47,0.06,0.05591,582.47
+Khadakwasla Reservoir,Krishna Basin,Bhima Upper,CWC,18.4148564,73.73248902,04-10-23,2023,10,582.47,0.06,0.05544,582.44
+Khadakwasla Reservoir,Krishna Basin,Bhima Upper,CWC,18.4148564,73.73248902,05-10-23,2023,10,582.47,0.06,0.05377,582.32
+Kol Dam,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.383056,76.868917,01-10-23,2023,10,642,0.089,0.07372,640.99
+Kol Dam,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.383056,76.868917,02-10-23,2023,10,642,0.089,0.07402,641.01
+Kol Dam,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.383056,76.868917,03-10-23,2023,10,642,0.089,0.07417,641.02
+Kol Dam,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.383056,76.868917,04-10-23,2023,10,642,0.089,0.07313,640.95
+Kol Dam,Indus (Up to border) Basin,Sutlaj Upper,CWC,31.383056,76.868917,05-10-23,2023,10,642,0.089,0.07505,641.08
+Kolar,Narmada Basin,Narmada Middle,CWC,22.95433708,77.29432532,01-10-23,2023,10,462.2,0.27,NA,NA
+Kolar,Narmada Basin,Narmada Middle,CWC,22.95433708,77.29432532,02-10-23,2023,10,462.2,0.27,NA,NA
+Kolar,Narmada Basin,Narmada Middle,CWC,22.95433708,77.29432532,03-10-23,2023,10,462.2,0.27,NA,NA
+Kolar,Narmada Basin,Narmada Middle,CWC,22.95433708,77.29432532,04-10-23,2023,10,462.2,0.27,NA,NA
+Kolar,Narmada Basin,Narmada Middle,CWC,22.95433708,77.29432532,05-10-23,2023,10,462.2,0.27,0.23236,460.77
+Konar Reservoir,Ganga Basin,Damodar,CWC,23.94457917,85.74669073,01-10-23,2023,10,425.81,0.176,0.111,421.874
+Konar Reservoir,Ganga Basin,Damodar,CWC,23.94457917,85.74669073,02-10-23,2023,10,425.81,0.176,0.146,424.099
+Konar Reservoir,Ganga Basin,Damodar,CWC,23.94457917,85.74669073,03-10-23,2023,10,425.81,0.176,0.164,425.166
+Konar Reservoir,Ganga Basin,Damodar,CWC,23.94457917,85.74669073,04-10-23,2023,10,425.81,0.176,0.17,425.501
+Konar Reservoir,Ganga Basin,Damodar,CWC,23.94457917,85.74669073,05-10-23,2023,10,425.81,0.176,0.17,426.354
+Koyana/Shivaji Sagar,Krishna Basin,Krishna Upper,CWC,17.59996426,73.74860196,01-10-23,2023,10,657.9,2.652,2.49825,656.615
+Koyana/Shivaji Sagar,Krishna Basin,Krishna Upper,CWC,17.59996426,73.74860196,02-10-23,2023,10,657.9,2.652,2.50731,656.692
+Koyana/Shivaji Sagar,Krishna Basin,Krishna Upper,CWC,17.59996426,73.74860196,03-10-23,2023,10,657.9,2.652,2.51939,656.793
+Koyana/Shivaji Sagar,Krishna Basin,Krishna Upper,CWC,17.59996426,73.74860196,04-10-23,2023,10,657.9,2.652,2.52544,656.884
+Koyana/Shivaji Sagar,Krishna Basin,Krishna Upper,CWC,17.59996426,73.74860196,05-10-23,2023,10,657.9,2.652,NA,NA
+Krishnaraja Sagar,Cauvery Basin,Cauvery Upper,CWC,12.46102452,76.48916788,01-10-23,2023,10,752.5,1.163,0.36541,744.33
+Krishnaraja Sagar,Cauvery Basin,Cauvery Upper,CWC,12.46102452,76.48916788,02-10-23,2023,10,752.5,1.163,0.37397,744.452
+Krishnaraja Sagar,Cauvery Basin,Cauvery Upper,CWC,12.46102452,76.48916788,03-10-23,2023,10,752.5,1.163,0.39858,744.8
+Krishnaraja Sagar,Cauvery Basin,Cauvery Upper,CWC,12.46102452,76.48916788,04-10-23,2023,10,752.5,1.163,0.41676,745.05
+Krishnaraja Sagar,Cauvery Basin,Cauvery Upper,CWC,12.46102452,76.48916788,05-10-23,2023,10,752.5,1.163,0.42709,745.19
+Linganamakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.03563915,74.92879915,01-10-23,2023,10,554.43,4.294,1.9591,544.97
+Linganamakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.03563915,74.92879915,02-10-23,2023,10,554.43,4.294,NA,NA
+Linganamakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.03563915,74.92879915,03-10-23,2023,10,554.43,4.294,1.98961,545.135
+Linganamakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.03563915,74.92879915,04-10-23,2023,10,554.43,4.294,1.98961,545.135
+Linganamakki Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,14.03563915,74.92879915,05-10-23,2023,10,554.43,4.294,1.9868,545.119
+Lower Bhawani \ Bhavanisagar Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.44347832,77.06863102,01-10-23,2023,10,278.89,0.792,0.3218,270.044
+Lower Bhawani \ Bhavanisagar Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.44347832,77.06863102,02-10-23,2023,10,278.89,0.792,0.31905,269.974
+Lower Bhawani \ Bhavanisagar Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.44347832,77.06863102,03-10-23,2023,10,278.89,0.792,0.31724,269.928
+Lower Bhawani \ Bhavanisagar Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.44347832,77.06863102,04-10-23,2023,10,278.89,0.792,0.31676,269.916
+Lower Bhawani \ Bhavanisagar Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.44347832,77.06863102,05-10-23,2023,10,278.89,0.792,0.31639,269.906
+Lower Manair\G.V.Sudhakar Rao Reservoir,Godavari Basin,Pranhita and others,CWC,18.38429509,79.10782049,01-10-23,2023,10,280.42,0.621,0.58171,279.867
+Lower Manair\G.V.Sudhakar Rao Reservoir,Godavari Basin,Pranhita and others,CWC,18.38429509,79.10782049,02-10-23,2023,10,280.42,0.621,0.58171,279.928
+Lower Manair\G.V.Sudhakar Rao Reservoir,Godavari Basin,Pranhita and others,CWC,18.38429509,79.10782049,03-10-23,2023,10,280.42,0.621,0.58171,279.959
+Lower Manair\G.V.Sudhakar Rao Reservoir,Godavari Basin,Pranhita and others,CWC,18.38429509,79.10782049,04-10-23,2023,10,280.42,0.621,0.58171,279.989
+Lower Manair\G.V.Sudhakar Rao Reservoir,Godavari Basin,Pranhita and others,CWC,18.38429509,79.10782049,05-10-23,2023,10,280.42,0.621,0.58171,279.989
+Machhu I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.44546947,70.95697488,01-10-23,2023,10,135.33,0.071,NA,NA
+Machhu I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.44546947,70.95697488,02-10-23,2023,10,135.33,0.071,NA,NA
+Machhu I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.44546947,70.95697488,03-10-23,2023,10,135.33,0.071,NA,NA
+Machhu I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.44546947,70.95697488,04-10-23,2023,10,135.33,0.071,NA,NA
+Machhu I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.44546947,70.95697488,05-10-23,2023,10,135.33,0.071,NA,NA
+Machhu II,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.74131643,70.88602111,01-10-23,2023,10,57.3,0.091,NA,NA
+Machhu II,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.74131643,70.88602111,02-10-23,2023,10,57.3,0.091,NA,NA
+Machhu II,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.74131643,70.88602111,03-10-23,2023,10,57.3,0.091,NA,NA
+Machhu II,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.74131643,70.88602111,04-10-23,2023,10,57.3,0.091,NA,NA
+Machhu II,West flowing rivers of Kutch and Saurashtra including Luni Basin,Saraswati,CWC,22.74131643,70.88602111,05-10-23,2023,10,57.3,0.091,NA,NA
+Machkund\Jalaput Reservoir,Godavari Basin,Godavari Lower,CWC,18.40098918,82.59091709,01-10-23,2023,10,838.16,0.893,NA,NA
+Machkund\Jalaput Reservoir,Godavari Basin,Godavari Lower,CWC,18.40098918,82.59091709,02-10-23,2023,10,838.16,0.893,NA,NA
+Machkund\Jalaput Reservoir,Godavari Basin,Godavari Lower,CWC,18.40098918,82.59091709,03-10-23,2023,10,838.16,0.893,NA,NA
+Machkund\Jalaput Reservoir,Godavari Basin,Godavari Lower,CWC,18.40098918,82.59091709,04-10-23,2023,10,838.16,0.893,NA,NA
+Machkund\Jalaput Reservoir,Godavari Basin,Godavari Lower,CWC,18.40098918,82.59091709,05-10-23,2023,10,838.16,0.893,0.521,833.26
+Mahanadi\Ravishankar Sagar,Mahanadi Basin,Mahanadi Middle,CWC,20.56924425,81.52032265,01-10-23,2023,10,348.7,0.767,NA,NA
+Mahanadi\Ravishankar Sagar,Mahanadi Basin,Mahanadi Middle,CWC,20.56924425,81.52032265,02-10-23,2023,10,348.7,0.767,NA,NA
+Mahanadi\Ravishankar Sagar,Mahanadi Basin,Mahanadi Middle,CWC,20.56924425,81.52032265,03-10-23,2023,10,348.7,0.767,NA,NA
+Mahanadi\Ravishankar Sagar,Mahanadi Basin,Mahanadi Middle,CWC,20.56924425,81.52032265,04-10-23,2023,10,348.7,0.767,NA,NA
+Mahanadi\Ravishankar Sagar,Mahanadi Basin,Mahanadi Middle,CWC,20.56924425,81.52032265,05-10-23,2023,10,348.7,0.767,0.44618,344.9
+Mahi Bajaj Sagar,Mahi Basin,Mahi Upper,CWC,23.56591534,74.56320292,01-10-23,2023,10,280.75,1.711,1.61286,281.3
+Mahi Bajaj Sagar,Mahi Basin,Mahi Upper,CWC,23.56591534,74.56320292,02-10-23,2023,10,280.75,1.711,1.61286,281.4
+Mahi Bajaj Sagar,Mahi Basin,Mahi Upper,CWC,23.56591534,74.56320292,03-10-23,2023,10,280.75,1.711,1.61286,281.4
+Mahi Bajaj Sagar,Mahi Basin,Mahi Upper,CWC,23.56591534,74.56320292,04-10-23,2023,10,280.75,1.711,1.61286,281.4
+Mahi Bajaj Sagar,Mahi Basin,Mahi Upper,CWC,23.56591534,74.56320292,05-10-23,2023,10,280.75,1.711,1.61286,281.4
+Maithon Reservoir,Ganga Basin,Damodar,CWC,23.83173749,86.80262006,01-10-23,2023,10,146.3,0.471,0.469,148.15
+Maithon Reservoir,Ganga Basin,Damodar,CWC,23.83173749,86.80262006,02-10-23,2023,10,146.3,0.471,0.469,148.99
+Maithon Reservoir,Ganga Basin,Damodar,CWC,23.83173749,86.80262006,03-10-23,2023,10,146.3,0.471,0.469,148.7
+Maithon Reservoir,Ganga Basin,Damodar,CWC,23.83173749,86.80262006,04-10-23,2023,10,146.3,0.471,0.469,148.44
+Maithon Reservoir,Ganga Basin,Damodar,CWC,23.83173749,86.80262006,05-10-23,2023,10,146.3,0.471,0.469,149
+Malampuzha,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.8476441,76.68945355,01-10-23,2023,10,115.06,0.224,0.08403,107.56
+Malampuzha,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.8476441,76.68945355,02-10-23,2023,10,115.06,0.224,0.08708,107.78
+Malampuzha,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.8476441,76.68945355,03-10-23,2023,10,115.06,0.224,0.08832,107.87
+Malampuzha,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.8476441,76.68945355,04-10-23,2023,10,115.06,0.224,0.08929,107.94
+Malampuzha,West flowing rivers from Tadri to Kanyakumari Basin,Varrar and others,CWC,10.8476441,76.68945355,05-10-23,2023,10,115.06,0.224,0.09013,108.01
+Malaprabha Reservoir,Krishna Basin,Krishna Upper,CWC,15.79144906,75.01899439,01-10-23,2023,10,633.83,0.972,0.48847,629.324
+Malaprabha Reservoir,Krishna Basin,Krishna Upper,CWC,15.79144906,75.01899439,02-10-23,2023,10,633.83,0.972,0.48564,629.293
+Malaprabha Reservoir,Krishna Basin,Krishna Upper,CWC,15.79144906,75.01899439,03-10-23,2023,10,633.83,0.972,0.48309,629.263
+Malaprabha Reservoir,Krishna Basin,Krishna Upper,CWC,15.79144906,75.01899439,04-10-23,2023,10,633.83,0.972,0.48054,629.232
+Malaprabha Reservoir,Krishna Basin,Krishna Upper,CWC,15.79144906,75.01899439,05-10-23,2023,10,633.83,0.972,0.47799,629.202
+Mani Dam,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,13.6766317,75.0490642,01-10-23,2023,10,594.36,0.884,0.314,581.14
+Mani Dam,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,13.6766317,75.0490642,02-10-23,2023,10,594.36,0.884,0.31821,581.24
+Mani Dam,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,13.6766317,75.0490642,03-10-23,2023,10,594.36,0.884,0.3201,581.3
+Mani Dam,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,13.6766317,75.0490642,04-10-23,2023,10,594.36,0.884,0.32136,581.34
+Mani Dam,West flowing rivers from Tadri to Kanyakumari Basin,Netravati and others,CWC,13.6766317,75.0490642,05-10-23,2023,10,594.36,0.884,0.32199,581.36
+Manikdoh,Krishna Basin,Bhima Upper,CWC,19.24842931,73.77241196,01-10-23,2023,10,711.25,0.288,0.22935,707.84
+Manikdoh,Krishna Basin,Bhima Upper,CWC,19.24842931,73.77241196,02-10-23,2023,10,711.25,0.288,0.22984,707.87
+Manikdoh,Krishna Basin,Bhima Upper,CWC,19.24842931,73.77241196,03-10-23,2023,10,711.25,0.288,0.23017,707.89
+Manikdoh,Krishna Basin,Bhima Upper,CWC,19.24842931,73.77241196,04-10-23,2023,10,711.25,0.288,0.23034,707.9
+Manikdoh,Krishna Basin,Bhima Upper,CWC,19.24842931,73.77241196,05-10-23,2023,10,711.25,0.288,0.2305,707.91
+Matatila Reservoir,Ganga Basin,Yamuna Lower,CWC,25.05884303,78.33251496,01-10-23,2023,10,308.46,0.707,0.641,308.45
+Matatila Reservoir,Ganga Basin,Yamuna Lower,CWC,25.05884303,78.33251496,02-10-23,2023,10,308.46,0.707,0.641,308.45
+Matatila Reservoir,Ganga Basin,Yamuna Lower,CWC,25.05884303,78.33251496,03-10-23,2023,10,308.46,0.707,0.641,308.45
+Matatila Reservoir,Ganga Basin,Yamuna Lower,CWC,25.05884303,78.33251496,04-10-23,2023,10,308.46,0.707,0.641,308.45
+Matatila Reservoir,Ganga Basin,Yamuna Lower,CWC,25.05884303,78.33251496,05-10-23,2023,10,308.46,0.707,0.63782,308.42
+Mayurakshi\Masanjor Reservoir,Ganga Basin,Bhagirathi and others (Ganga Lower),CWC,24.15179111,87.29415256,01-10-23,2023,10,121.31,0.48,0.222,115.397
+Mayurakshi\Masanjor Reservoir,Ganga Basin,Bhagirathi and others (Ganga Lower),CWC,24.15179111,87.29415256,02-10-23,2023,10,121.31,0.48,0.227,115.534
+Mayurakshi\Masanjor Reservoir,Ganga Basin,Bhagirathi and others (Ganga Lower),CWC,24.15179111,87.29415256,03-10-23,2023,10,121.31,0.48,0.236,115.763
+Mayurakshi\Masanjor Reservoir,Ganga Basin,Bhagirathi and others (Ganga Lower),CWC,24.15179111,87.29415256,04-10-23,2023,10,121.31,0.48,0.251,116.144
+Mayurakshi\Masanjor Reservoir,Ganga Basin,Bhagirathi and others (Ganga Lower),CWC,24.15179111,87.29415256,05-10-23,2023,10,121.31,0.48,0.261,116.434
+Mettur Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.88628855,77.80504448,01-10-23,2023,10,240.79,2.647,0.29926,215.481
+Mettur Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.88628855,77.80504448,02-10-23,2023,10,240.79,2.647,0.29079,215.289
+Mettur Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.88628855,77.80504448,03-10-23,2023,10,240.79,2.647,0.27853,215.006
+Mettur Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.88628855,77.80504448,04-10-23,2023,10,240.79,2.647,0.26615,214.713
+Mettur Reservoir,Cauvery Basin,Cauvery Middle,CWC,11.88628855,77.80504448,05-10-23,2023,10,240.79,2.647,0.25559,214.457
+Minimata Bangoi\Hasdeo Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,22.71839958,82.62489835,01-10-23,2023,10,359.66,3.046,2.44886,357.03
+Minimata Bangoi\Hasdeo Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,22.71839958,82.62489835,02-10-23,2023,10,359.66,3.046,2.44393,357
+Minimata Bangoi\Hasdeo Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,22.71839958,82.62489835,03-10-23,2023,10,359.66,3.046,2.44393,357
+Minimata Bangoi\Hasdeo Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,22.71839958,82.62489835,04-10-23,2023,10,359.66,3.046,2.45709,357.08
+Minimata Bangoi\Hasdeo Reservoir,Mahanadi Basin,Mahanadi Middle,CWC,22.71839958,82.62489835,05-10-23,2023,10,359.66,3.046,2.46038,357.1
+Mula Reservoir,Godavari Basin,Godavari Upper,CWC,19.32221516,74.54011693,01-10-23,2023,10,552.3,0.609,0.52524,550.7
+Mula Reservoir,Godavari Basin,Godavari Upper,CWC,19.32221516,74.54011693,02-10-23,2023,10,552.3,0.609,0.53048,550.8
+Mula Reservoir,Godavari Basin,Godavari Upper,CWC,19.32221516,74.54011693,03-10-23,2023,10,552.3,0.609,0.53592,550.91
+Mula Reservoir,Godavari Basin,Godavari Upper,CWC,19.32221516,74.54011693,04-10-23,2023,10,552.3,0.609,0.54056,551
+Mula Reservoir,Godavari Basin,Godavari Upper,CWC,19.32221516,74.54011693,05-10-23,2023,10,552.3,0.609,0.54215,551.03
+Mulshi Dam,Krishna Basin,Bhima Upper,CWC,18.5360904,73.4094057,01-10-23,2023,10,607.1,0.572,0.5636,606.95
+Mulshi Dam,Krishna Basin,Bhima Upper,CWC,18.5360904,73.4094057,02-10-23,2023,10,607.1,0.572,0.5646,606.97
+Mulshi Dam,Krishna Basin,Bhima Upper,CWC,18.5360904,73.4094057,03-10-23,2023,10,607.1,0.572,0.5655,606.99
+Mulshi Dam,Krishna Basin,Bhima Upper,CWC,18.5360904,73.4094057,04-10-23,2023,10,607.1,0.572,0.565,606.98
+Mulshi Dam,Krishna Basin,Bhima Upper,CWC,18.5360904,73.4094057,05-10-23,2023,10,607.1,0.572,0.5641,606.96
+Nagarjuna Sagar,Krishna Basin,Krishna Middle,CWC,16.52522701,79.21965887,01-10-23,2023,10,179.83,5.108,0.761,160.02
+Nagarjuna Sagar,Krishna Basin,Krishna Middle,CWC,16.52522701,79.21965887,02-10-23,2023,10,179.83,5.108,0.76,160.02
+Nagarjuna Sagar,Krishna Basin,Krishna Middle,CWC,16.52522701,79.21965887,03-10-23,2023,10,179.83,5.108,0.767,160.05
+Nagarjuna Sagar,Krishna Basin,Krishna Middle,CWC,16.52522701,79.21965887,04-10-23,2023,10,179.83,5.108,0.767,160.05
+Nagarjuna Sagar,Krishna Basin,Krishna Middle,CWC,16.52522701,79.21965887,05-10-23,2023,10,179.83,5.108,0.767,160.05
+Narayanapura Reservoir,Krishna Basin,Krishna Upper,CWC,16.17832419,76.25396485,01-10-23,2023,10,492.25,0.863,0.433,491.53
+Narayanapura Reservoir,Krishna Basin,Krishna Upper,CWC,16.17832419,76.25396485,02-10-23,2023,10,492.25,0.863,0.432,491.52
+Narayanapura Reservoir,Krishna Basin,Krishna Upper,CWC,16.17832419,76.25396485,03-10-23,2023,10,492.25,0.863,0.43,491.51
+Narayanapura Reservoir,Krishna Basin,Krishna Upper,CWC,16.17832419,76.25396485,04-10-23,2023,10,492.25,0.863,0.429,491.5
+Narayanapura Reservoir,Krishna Basin,Krishna Upper,CWC,16.17832419,76.25396485,05-10-23,2023,10,492.25,0.863,0.426,491.48
+Niradevghar,Krishna Basin,Bhima Upper,CWC,18.09545067,73.69000174,01-10-23,2023,10,667.1,0.332,NA,NA
+Niradevghar,Krishna Basin,Bhima Upper,CWC,18.09545067,73.69000174,02-10-23,2023,10,667.1,0.332,NA,NA
+Niradevghar,Krishna Basin,Bhima Upper,CWC,18.09545067,73.69000174,03-10-23,2023,10,667.1,0.332,NA,NA
+Niradevghar,Krishna Basin,Bhima Upper,CWC,18.09545067,73.69000174,04-10-23,2023,10,667.1,0.332,NA,NA
+Niradevghar,Krishna Basin,Bhima Upper,CWC,18.09545067,73.69000174,05-10-23,2023,10,667.1,0.332,0.32873,667.1
+Nizam sagar,Godavari Basin,Godavari Middle,CWC,18.8989005,78.3272625,01-10-23,2023,10,428.24,0.482,0.45381,428.232
+Nizam sagar,Godavari Basin,Godavari Middle,CWC,18.8989005,78.3272625,02-10-23,2023,10,428.24,0.482,0.45381,428.232
+Nizam sagar,Godavari Basin,Godavari Middle,CWC,18.8989005,78.3272625,03-10-23,2023,10,428.24,0.482,0.45381,428.238
+Nizam sagar,Godavari Basin,Godavari Middle,CWC,18.8989005,78.3272625,04-10-23,2023,10,428.24,0.482,0.45381,428.238
+Nizam sagar,Godavari Basin,Godavari Middle,CWC,18.8989005,78.3272625,05-10-23,2023,10,428.24,0.482,0.45381,428.238
+Omkareshwar,Narmada Basin,Narmada Middle,CWC,22.2501207,76.21613645,01-10-23,2023,10,196.6,0.299,0.11369,194.81
+Omkareshwar,Narmada Basin,Narmada Middle,CWC,22.2501207,76.21613645,02-10-23,2023,10,196.6,0.299,0.11638,194.84
+Omkareshwar,Narmada Basin,Narmada Middle,CWC,22.2501207,76.21613645,03-10-23,2023,10,196.6,0.299,0.12626,194.95
+Omkareshwar,Narmada Basin,Narmada Middle,CWC,22.2501207,76.21613645,04-10-23,2023,10,196.6,0.299,0.11099,194.78
+Omkareshwar,Narmada Basin,Narmada Middle,CWC,22.2501207,76.21613645,05-10-23,2023,10,196.6,0.299,0.096,194.61
+Panam Reservoir,Mahi Basin,Mahi Lower,CWC,23.02265456,73.76883417,01-10-23,2023,10,127.41,0.697,0.55297,127.41
+Panam Reservoir,Mahi Basin,Mahi Lower,CWC,23.02265456,73.76883417,02-10-23,2023,10,127.41,0.697,0.55297,127.41
+Panam Reservoir,Mahi Basin,Mahi Lower,CWC,23.02265456,73.76883417,03-10-23,2023,10,127.41,0.697,0.55297,127.41
+Panam Reservoir,Mahi Basin,Mahi Lower,CWC,23.02265456,73.76883417,04-10-23,2023,10,127.41,0.697,0.55297,127.41
+Panam Reservoir,Mahi Basin,Mahi Lower,CWC,23.02265456,73.76883417,05-10-23,2023,10,127.41,0.697,0.55297,127.41
+Panchat Reservoir,Ganga Basin,Damodar,CWC,23.6735842,86.68314879,01-10-23,2023,10,124.97,0.184,0.169,125.47
+Panchat Reservoir,Ganga Basin,Damodar,CWC,23.6735842,86.68314879,02-10-23,2023,10,124.97,0.184,0.169,126.64
+Panchat Reservoir,Ganga Basin,Damodar,CWC,23.6735842,86.68314879,03-10-23,2023,10,124.97,0.184,0.169,126.55
+Panchat Reservoir,Ganga Basin,Damodar,CWC,23.6735842,86.68314879,04-10-23,2023,10,124.97,0.184,0.169,126.2
+Panchat Reservoir,Ganga Basin,Damodar,CWC,23.6735842,86.68314879,05-10-23,2023,10,124.97,0.184,0.169,127.04
+Parambikulam Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.38445123,76.80733579,01-10-23,2023,10,556.26,0.38,0.20547,547.467
+Parambikulam Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.38445123,76.80733579,02-10-23,2023,10,556.26,0.38,0.20586,547.488
+Parambikulam Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.38445123,76.80733579,03-10-23,2023,10,556.26,0.38,0.20648,547.521
+Parambikulam Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.38445123,76.80733579,04-10-23,2023,10,556.26,0.38,0.20698,547.549
+Parambikulam Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.38445123,76.80733579,05-10-23,2023,10,556.26,0.38,0.20737,547.57
+Pench\Totladoh Reservoir,Godavari Basin,Weinganga,CWC,21.71326462,79.23004421,01-10-23,2023,10,490,1.091,1.01693,490
+Pench\Totladoh Reservoir,Godavari Basin,Weinganga,CWC,21.71326462,79.23004421,02-10-23,2023,10,490,1.091,1.01693,490
+Pench\Totladoh Reservoir,Godavari Basin,Weinganga,CWC,21.71326462,79.23004421,03-10-23,2023,10,490,1.091,1.01693,490
+Pench\Totladoh Reservoir,Godavari Basin,Weinganga,CWC,21.71326462,79.23004421,04-10-23,2023,10,490,1.091,1.01693,490
+Pench\Totladoh Reservoir,Godavari Basin,Weinganga,CWC,21.71326462,79.23004421,05-10-23,2023,10,490,1.091,1.01214,489.94
+Periyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.53495932,77.19160638,01-10-23,2023,10,867.41,0.173,0.06184,862.222
+Periyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.53495932,77.19160638,02-10-23,2023,10,867.41,0.173,0.06717,862.207
+Periyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.53495932,77.19160638,03-10-23,2023,10,867.41,0.173,0.0694,862.634
+Periyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.53495932,77.19160638,04-10-23,2023,10,867.41,0.173,0.07051,862.695
+Periyar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,9.53495932,77.19160638,05-10-23,2023,10,867.41,0.173,0.07025,862.679
+Pong Reservoir,Indus (Up to border) Basin,Beas,CWC,31.99344125,76.0517408,01-10-23,2023,10,423.67,6.157,NA,NA
+Pong Reservoir,Indus (Up to border) Basin,Beas,CWC,31.99344125,76.0517408,02-10-23,2023,10,423.67,6.157,NA,NA
+Pong Reservoir,Indus (Up to border) Basin,Beas,CWC,31.99344125,76.0517408,03-10-23,2023,10,423.67,6.157,NA,NA
+Pong Reservoir,Indus (Up to border) Basin,Beas,CWC,31.99344125,76.0517408,04-10-23,2023,10,423.67,6.157,NA,NA
+Pong Reservoir,Indus (Up to border) Basin,Beas,CWC,31.99344125,76.0517408,05-10-23,2023,10,423.67,6.157,5.4808,422.45
+RIHAND RESERVOIR,Ganga Basin,Sone,CWC,24.136551,82.833914,01-10-23,2023,10,268.22,5.649,1.84619,258.96
+RIHAND RESERVOIR,Ganga Basin,Sone,CWC,24.136551,82.833914,02-10-23,2023,10,268.22,5.649,1.86887,259.02
+RIHAND RESERVOIR,Ganga Basin,Sone,CWC,24.136551,82.833914,03-10-23,2023,10,268.22,5.649,1.90291,259.11
+RIHAND RESERVOIR,Ganga Basin,Sone,CWC,24.136551,82.833914,04-10-23,2023,10,268.22,5.649,1.92559,259.17
+RIHAND RESERVOIR,Ganga Basin,Sone,CWC,24.136551,82.833914,05-10-23,2023,10,268.22,5.649,1.94828,259.23
+Ramganga Reservoir,Ganga Basin,Ramganga,CWC,29.57925961,78.75979721,01-10-23,2023,10,365.3,2.196,1.9378,361.85
+Ramganga Reservoir,Ganga Basin,Ramganga,CWC,29.57925961,78.75979721,02-10-23,2023,10,365.3,2.196,1.9415,361.9
+Ramganga Reservoir,Ganga Basin,Ramganga,CWC,29.57925961,78.75979721,03-10-23,2023,10,365.3,2.196,1.9474,361.98
+Ramganga Reservoir,Ganga Basin,Ramganga,CWC,29.57925961,78.75979721,04-10-23,2023,10,365.3,2.196,1.9511,362.03
+Ramganga Reservoir,Ganga Basin,Ramganga,CWC,29.57925961,78.75979721,05-10-23,2023,10,365.3,2.196,NA,NA
+Ranapratap Sagar,Ganga Basin,Chambal Upper,CWC,24.79033041,75.54794792,01-10-23,2023,10,352.81,1.436,NA,NA
+Ranapratap Sagar,Ganga Basin,Chambal Upper,CWC,24.79033041,75.54794792,02-10-23,2023,10,352.81,1.436,NA,NA
+Ranapratap Sagar,Ganga Basin,Chambal Upper,CWC,24.79033041,75.54794792,03-10-23,2023,10,352.81,1.436,NA,NA
+Ranapratap Sagar,Ganga Basin,Chambal Upper,CWC,24.79033041,75.54794792,04-10-23,2023,10,352.81,1.436,NA,NA
+Ranapratap Sagar,Ganga Basin,Chambal Upper,CWC,24.79033041,75.54794792,05-10-23,2023,10,352.81,1.436,1.39494,352.77
+Rengali Reservoir,Brahmani and Baitarni Basin,Brahmani,CWC,21.37482631,84.98933328,01-10-23,2023,10,123.5,3.432,NA,NA
+Rengali Reservoir,Brahmani and Baitarni Basin,Brahmani,CWC,21.37482631,84.98933328,02-10-23,2023,10,123.5,3.432,NA,NA
+Rengali Reservoir,Brahmani and Baitarni Basin,Brahmani,CWC,21.37482631,84.98933328,03-10-23,2023,10,123.5,3.432,NA,NA
+Rengali Reservoir,Brahmani and Baitarni Basin,Brahmani,CWC,21.37482631,84.98933328,04-10-23,2023,10,123.5,3.432,NA,NA
+Rengali Reservoir,Brahmani and Baitarni Basin,Brahmani,CWC,21.37482631,84.98933328,05-10-23,2023,10,123.5,3.432,3.3837,123.31
+Sabarmati Reservoir,Sabarmati Basin,Sabarmati Upper,CWC,24.02898674,72.91530995,01-10-23,2023,10,189.59,0.735,0.7184,189.33
+Sabarmati Reservoir,Sabarmati Basin,Sabarmati Upper,CWC,24.02898674,72.91530995,02-10-23,2023,10,189.59,0.735,0.7205,189.35
+Sabarmati Reservoir,Sabarmati Basin,Sabarmati Upper,CWC,24.02898674,72.91530995,03-10-23,2023,10,189.59,0.735,0.7242,189.385
+Sabarmati Reservoir,Sabarmati Basin,Sabarmati Upper,CWC,24.02898674,72.91530995,04-10-23,2023,10,189.59,0.735,0.72626,189.405
+Sabarmati Reservoir,Sabarmati Basin,Sabarmati Upper,CWC,24.02898674,72.91530995,05-10-23,2023,10,189.59,0.735,0.72783,189.42
+Salandi Reservoir,Brahmani and Baitarni Basin,Baitarni,CWC,21.32763959,86.28440724,01-10-23,2023,10,82.3,0.558,NA,NA
+Salandi Reservoir,Brahmani and Baitarni Basin,Baitarni,CWC,21.32763959,86.28440724,02-10-23,2023,10,82.3,0.558,NA,NA
+Salandi Reservoir,Brahmani and Baitarni Basin,Baitarni,CWC,21.32763959,86.28440724,03-10-23,2023,10,82.3,0.558,NA,NA
+Salandi Reservoir,Brahmani and Baitarni Basin,Baitarni,CWC,21.32763959,86.28440724,04-10-23,2023,10,82.3,0.558,NA,NA
+Salandi Reservoir,Brahmani and Baitarni Basin,Baitarni,CWC,21.32763959,86.28440724,05-10-23,2023,10,82.3,0.558,NA,NA
+Sanjay Sarovar (Upper Wainganga),Godavari Basin,Weinganga,CWC,22.35381177,79.60332911,01-10-23,2023,10,519.38,0.508,NA,NA
+Sanjay Sarovar (Upper Wainganga),Godavari Basin,Weinganga,CWC,22.35381177,79.60332911,02-10-23,2023,10,519.38,0.508,NA,NA
+Sanjay Sarovar (Upper Wainganga),Godavari Basin,Weinganga,CWC,22.35381177,79.60332911,03-10-23,2023,10,519.38,0.508,NA,NA
+Sanjay Sarovar (Upper Wainganga),Godavari Basin,Weinganga,CWC,22.35381177,79.60332911,04-10-23,2023,10,519.38,0.508,NA,NA
+Sanjay Sarovar (Upper Wainganga),Godavari Basin,Weinganga,CWC,22.35381177,79.60332911,05-10-23,2023,10,519.38,0.508,0.40165,519.2
+Sapua,Mahanadi Basin,Mahanadi Lower,CWC,20.58898286,85.286984,01-10-23,2023,10,168.5,0.006,NA,NA
+Sapua,Mahanadi Basin,Mahanadi Lower,CWC,20.58898286,85.286984,02-10-23,2023,10,168.5,0.006,NA,NA
+Sapua,Mahanadi Basin,Mahanadi Lower,CWC,20.58898286,85.286984,03-10-23,2023,10,168.5,0.006,NA,NA
+Sapua,Mahanadi Basin,Mahanadi Lower,CWC,20.58898286,85.286984,04-10-23,2023,10,168.5,0.006,NA,NA
+Sapua,Mahanadi Basin,Mahanadi Lower,CWC,20.58898286,85.286984,05-10-23,2023,10,168.5,0.006,0.006,168.56
+Sardar Sarovar,Narmada Basin,Narmada Middle,CWC,21.86921399,73.90418486,01-10-23,2023,10,138.68,5.76,NA,NA
+Sardar Sarovar,Narmada Basin,Narmada Middle,CWC,21.86921399,73.90418486,02-10-23,2023,10,138.68,5.76,NA,NA
+Sardar Sarovar,Narmada Basin,Narmada Middle,CWC,21.86921399,73.90418486,03-10-23,2023,10,138.68,5.76,NA,NA
+Sardar Sarovar,Narmada Basin,Narmada Middle,CWC,21.86921399,73.90418486,04-10-23,2023,10,138.68,5.76,NA,NA
+Sardar Sarovar,Narmada Basin,Narmada Middle,CWC,21.86921399,73.90418486,05-10-23,2023,10,138.68,5.76,NA,NA
+Sharda Sagar,Ganga Basin,Ramganga,CWC,28.7811109,80.0183861,01-10-23,2023,10,190.5,0.33,0.1141,184.86
+Sharda Sagar,Ganga Basin,Ramganga,CWC,28.7811109,80.0183861,02-10-23,2023,10,190.5,0.33,0.1141,184.86
+Sharda Sagar,Ganga Basin,Ramganga,CWC,28.7811109,80.0183861,03-10-23,2023,10,190.5,0.33,0.1191,184.97
+Sharda Sagar,Ganga Basin,Ramganga,CWC,28.7811109,80.0183861,04-10-23,2023,10,190.5,0.33,0.1264,185.17
+Sharda Sagar,Ganga Basin,Ramganga,CWC,28.7811109,80.0183861,05-10-23,2023,10,190.5,0.33,0.1319,185.3
+Shetrunji Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Shetranjuli and other east flowing rivers,CWC,21.43521754,71.74916361,01-10-23,2023,10,55.53,0.3,0.29938,55.53
+Shetrunji Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Shetranjuli and other east flowing rivers,CWC,21.43521754,71.74916361,02-10-23,2023,10,55.53,0.3,0.29938,55.53
+Shetrunji Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Shetranjuli and other east flowing rivers,CWC,21.43521754,71.74916361,03-10-23,2023,10,55.53,0.3,0.29938,55.53
+Shetrunji Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Shetranjuli and other east flowing rivers,CWC,21.43521754,71.74916361,04-10-23,2023,10,55.53,0.3,0.29938,55.53
+Shetrunji Reservoir,West flowing rivers of Kutch and Saurashtra including Luni Basin,Shetranjuli and other east flowing rivers,CWC,21.43521754,71.74916361,05-10-23,2023,10,55.53,0.3,0.29938,55.53
+Sholayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.32047051,76.90271502,01-10-23,2023,10,1002.79,0.143,0.04191,977.363
+Sholayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.32047051,76.90271502,02-10-23,2023,10,1002.79,0.143,0.04506,978.438
+Sholayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.32047051,76.90271502,03-10-23,2023,10,1002.79,0.143,0.0478,979.374
+Sholayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.32047051,76.90271502,04-10-23,2023,10,1002.79,0.143,0.0493,979.889
+Sholayar Reservoir,West flowing rivers from Tadri to Kanyakumari Basin,Periyar and others,CWC,10.32047051,76.90271502,05-10-23,2023,10,1002.79,0.143,0.05022,980.267
+Singur,Godavari Basin,Manjra,CWC,17.7575285,77.9149039,01-10-23,2023,10,523.6,0.822,0.81946,523.49
+Singur,Godavari Basin,Manjra,CWC,17.7575285,77.9149039,02-10-23,2023,10,523.6,0.822,0.81946,523.505
+Singur,Godavari Basin,Manjra,CWC,17.7575285,77.9149039,03-10-23,2023,10,523.6,0.822,0.81946,523.515
+Singur,Godavari Basin,Manjra,CWC,17.7575285,77.9149039,04-10-23,2023,10,523.6,0.822,0.81946,523.55
+Singur,Godavari Basin,Manjra,CWC,17.7575285,77.9149039,05-10-23,2023,10,523.6,0.822,0.81946,523.575
+Somasila Reservoir,Pennar Basin,Pennar Lower,CWC,14.46105546,79.18163407,01-10-23,2023,10,100.58,1.994,NA,NA
+Somasila Reservoir,Pennar Basin,Pennar Lower,CWC,14.46105546,79.18163407,02-10-23,2023,10,100.58,1.994,NA,NA
+Somasila Reservoir,Pennar Basin,Pennar Lower,CWC,14.46105546,79.18163407,03-10-23,2023,10,100.58,1.994,NA,NA
+Somasila Reservoir,Pennar Basin,Pennar Lower,CWC,14.46105546,79.18163407,04-10-23,2023,10,100.58,1.994,NA,NA
+Somasila Reservoir,Pennar Basin,Pennar Lower,CWC,14.46105546,79.18163407,05-10-23,2023,10,100.58,1.994,NA,NA
+Sriram Sagar,Godavari Basin,Godavari Middle,CWC,18.95689759,78.28986913,01-10-23,2023,10,332.54,2.3,2.22743,332.537
+Sriram Sagar,Godavari Basin,Godavari Middle,CWC,18.95689759,78.28986913,02-10-23,2023,10,332.54,2.3,2.22743,332.537
+Sriram Sagar,Godavari Basin,Godavari Middle,CWC,18.95689759,78.28986913,03-10-23,2023,10,332.54,2.3,2.22743,332.537
+Sriram Sagar,Godavari Basin,Godavari Middle,CWC,18.95689759,78.28986913,04-10-23,2023,10,332.54,2.3,2.22743,332.537
+Sriram Sagar,Godavari Basin,Godavari Middle,CWC,18.95689759,78.28986913,05-10-23,2023,10,332.54,2.3,2.22743,332.537
+Srisailam Reservoir,Krishna Basin,Krishna Middle,CWC,16.0055082,78.34173056,01-10-23,2023,10,269.75,6.013,2.547,260.79
+Srisailam Reservoir,Krishna Basin,Krishna Middle,CWC,16.0055082,78.34173056,02-10-23,2023,10,269.75,6.013,2.553,260.79
+Srisailam Reservoir,Krishna Basin,Krishna Middle,CWC,16.0055082,78.34173056,03-10-23,2023,10,269.75,6.013,2.566,260.85
+Srisailam Reservoir,Krishna Basin,Krishna Middle,CWC,16.0055082,78.34173056,04-10-23,2023,10,269.75,6.013,2.591,260.94
+Srisailam Reservoir,Krishna Basin,Krishna Middle,CWC,16.0055082,78.34173056,05-10-23,2023,10,269.75,6.013,2.578,260.91
+Sukhi Tank,Narmada Basin,Narmada Lower,CWC,22.45124369,73.88506045,01-10-23,2023,10,147.82,0.167,NA,NA
+Sukhi Tank,Narmada Basin,Narmada Lower,CWC,22.45124369,73.88506045,02-10-23,2023,10,147.82,0.167,NA,NA
+Sukhi Tank,Narmada Basin,Narmada Lower,CWC,22.45124369,73.88506045,03-10-23,2023,10,147.82,0.167,NA,NA
+Sukhi Tank,Narmada Basin,Narmada Lower,CWC,22.45124369,73.88506045,04-10-23,2023,10,147.82,0.167,NA,NA
+Sukhi Tank,Narmada Basin,Narmada Lower,CWC,22.45124369,73.88506045,05-10-23,2023,10,147.82,0.167,NA,NA
+Supa Reservoir,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.2579957,74.47101416,01-10-23,2023,10,564,4.12,2.2133,1.959
+Supa Reservoir,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.2579957,74.47101416,02-10-23,2023,10,564,4.12,NA,NA
+Supa Reservoir,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.2579957,74.47101416,03-10-23,2023,10,564,4.12,2.26083,546.35
+Supa Reservoir,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.2579957,74.47101416,04-10-23,2023,10,564,4.12,2.26352,546.38
+Supa Reservoir,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.2579957,74.47101416,05-10-23,2023,10,564,4.12,2.2599,546.34
+Tattihalla,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.1322184,74.7888706,01-10-23,2023,10,468.3,0.249,0.02903,454.59
+Tattihalla,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.1322184,74.7888706,02-10-23,2023,10,468.3,0.249,NA,NA
+Tattihalla,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.1322184,74.7888706,03-10-23,2023,10,468.3,0.249,0.02849,454.52
+Tattihalla,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.1322184,74.7888706,04-10-23,2023,10,468.3,0.249,0.02781,454.43
+Tattihalla,West flowing rivers from Tapi to Tadri Basin,Vasishti and others,CWC,15.1322184,74.7888706,05-10-23,2023,10,468.3,0.249,0.02704,454.33
+Tawa Reservoir,Narmada Basin,Narmada Upper,CWC,22.50906232,77.9962712,01-10-23,2023,10,355.4,1.944,1.91226,355.519
+Tawa Reservoir,Narmada Basin,Narmada Upper,CWC,22.50906232,77.9962712,02-10-23,2023,10,355.4,1.944,1.91226,355.519
+Tawa Reservoir,Narmada Basin,Narmada Upper,CWC,22.50906232,77.9962712,03-10-23,2023,10,355.4,1.944,1.91226,355.519
+Tawa Reservoir,Narmada Basin,Narmada Upper,CWC,22.50906232,77.9962712,04-10-23,2023,10,355.4,1.944,1.91226,355.488
+Tawa Reservoir,Narmada Basin,Narmada Upper,CWC,22.50906232,77.9962712,05-10-23,2023,10,355.4,1.944,1.91226,355.458
+Tehri Reservoir,Ganga Basin,Above Ramganga Confluence,CWC,30.43921006,78.45546181,01-10-23,2023,10,830,2.615,NA,NA
+Tehri Reservoir,Ganga Basin,Above Ramganga Confluence,CWC,30.43921006,78.45546181,02-10-23,2023,10,830,2.615,NA,NA
+Tehri Reservoir,Ganga Basin,Above Ramganga Confluence,CWC,30.43921006,78.45546181,03-10-23,2023,10,830,2.615,NA,NA
+Tehri Reservoir,Ganga Basin,Above Ramganga Confluence,CWC,30.43921006,78.45546181,04-10-23,2023,10,830,2.615,NA,NA
+Tehri Reservoir,Ganga Basin,Above Ramganga Confluence,CWC,30.43921006,78.45546181,05-10-23,2023,10,830,2.615,2.586,829.13
+Tenughat Reservoir,Ganga Basin,Damodar,CWC,23.72685714,85.79171034,01-10-23,2023,10,269.14,0.821,0.419,260.06
+Tenughat Reservoir,Ganga Basin,Damodar,CWC,23.72685714,85.79171034,02-10-23,2023,10,269.14,0.821,0.446,260.71
+Tenughat Reservoir,Ganga Basin,Damodar,CWC,23.72685714,85.79171034,03-10-23,2023,10,269.14,0.821,0.446,260.7
+Tenughat Reservoir,Ganga Basin,Damodar,CWC,23.72685714,85.79171034,04-10-23,2023,10,269.14,0.821,0.523,260.12
+Tenughat Reservoir,Ganga Basin,Damodar,CWC,23.72685714,85.79171034,05-10-23,2023,10,269.14,0.821,0.415,259.96
+Thein\Ranjit Sagar,Indus (Up to border) Basin,Ravi,CWC,32.48447018,75.76540312,01-10-23,2023,10,527.91,2.344,1.446,515.44
+Thein\Ranjit Sagar,Indus (Up to border) Basin,Ravi,CWC,32.48447018,75.76540312,02-10-23,2023,10,527.91,2.344,1.446,515.34
+Thein\Ranjit Sagar,Indus (Up to border) Basin,Ravi,CWC,32.48447018,75.76540312,03-10-23,2023,10,527.91,2.344,1.446,515.27
+Thein\Ranjit Sagar,Indus (Up to border) Basin,Ravi,CWC,32.48447018,75.76540312,04-10-23,2023,10,527.91,2.344,1.416,515.09
+Thein\Ranjit Sagar,Indus (Up to border) Basin,Ravi,CWC,32.48447018,75.76540312,05-10-23,2023,10,527.91,2.344,1.416,514.89
+Thokarwadi,Krishna Basin,Bhima Upper,CWC,18.9048356,73.4848537,01-10-23,2023,10,667.14,0.353,0.3491,667.03
+Thokarwadi,Krishna Basin,Bhima Upper,CWC,18.9048356,73.4848537,02-10-23,2023,10,667.14,0.353,0.35,667.06
+Thokarwadi,Krishna Basin,Bhima Upper,CWC,18.9048356,73.4848537,03-10-23,2023,10,667.14,0.353,0.3509,667.09
+Thokarwadi,Krishna Basin,Bhima Upper,CWC,18.9048356,73.4848537,04-10-23,2023,10,667.14,0.353,0.3518,667.12
+Thokarwadi,Krishna Basin,Bhima Upper,CWC,18.9048356,73.4848537,05-10-23,2023,10,667.14,0.353,0.3518,667.12
+Tilaiya Reservoir,Ganga Basin,Damodar,CWC,24.33826227,85.43542012,01-10-23,2023,10,368.81,0.142,0.061,366.33
+Tilaiya Reservoir,Ganga Basin,Damodar,CWC,24.33826227,85.43542012,02-10-23,2023,10,368.81,0.142,0.069,366.59
+Tilaiya Reservoir,Ganga Basin,Damodar,CWC,24.33826227,85.43542012,03-10-23,2023,10,368.81,0.142,0.08,366.95
+Tilaiya Reservoir,Ganga Basin,Damodar,CWC,24.33826227,85.43542012,04-10-23,2023,10,368.81,0.142,0.086,367.11
+Tilaiya Reservoir,Ganga Basin,Damodar,CWC,24.33826227,85.43542012,05-10-23,2023,10,368.81,0.142,0.086,367.43
+Tungabhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,15.21986396,76.27456493,01-10-23,2023,10,497.74,3.276,1.5783,493.15
+Tungabhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,15.21986396,76.27456493,02-10-23,2023,10,497.74,3.276,1.55639,493.06
+Tungabhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,15.21986396,76.27456493,03-10-23,2023,10,497.74,3.276,1.53667,492.97
+Tungabhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,15.21986396,76.27456493,04-10-23,2023,10,497.74,3.276,1.52134,492.91
+Tungabhadra Reservoir,Krishna Basin,Tungabhadra Upper,CWC,15.21986396,76.27456493,05-10-23,2023,10,497.74,3.276,1.50683,492.85
+Ukai Reservoir,Tapi Basin,Tapi Middle,CWC,21.35061945,73.80721399,01-10-23,2023,10,105.16,6.615,NA,NA
+Ukai Reservoir,Tapi Basin,Tapi Middle,CWC,21.35061945,73.80721399,02-10-23,2023,10,105.16,6.615,NA,NA
+Ukai Reservoir,Tapi Basin,Tapi Middle,CWC,21.35061945,73.80721399,03-10-23,2023,10,105.16,6.615,NA,NA
+Ukai Reservoir,Tapi Basin,Tapi Middle,CWC,21.35061945,73.80721399,04-10-23,2023,10,105.16,6.615,NA,NA
+Ukai Reservoir,Tapi Basin,Tapi Middle,CWC,21.35061945,73.80721399,05-10-23,2023,10,105.16,6.615,NA,NA
+Und I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Drainage of Rann,CWC,22.38438192,70.40304333,01-10-23,2023,10,98,0.066,NA,NA
+Und I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Drainage of Rann,CWC,22.38438192,70.40304333,02-10-23,2023,10,98,0.066,NA,NA
+Und I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Drainage of Rann,CWC,22.38438192,70.40304333,03-10-23,2023,10,98,0.066,NA,NA
+Und I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Drainage of Rann,CWC,22.38438192,70.40304333,04-10-23,2023,10,98,0.066,NA,NA
+Und I,West flowing rivers of Kutch and Saurashtra including Luni Basin,Drainage of Rann,CWC,22.38438192,70.40304333,05-10-23,2023,10,98,0.066,NA,NA
+Upper Indrawati Reservoir,Godavari Basin,Indravati,CWC,19.23634733,82.82597886,01-10-23,2023,10,642,1.456,NA,NA
+Upper Indrawati Reservoir,Godavari Basin,Indravati,CWC,19.23634733,82.82597886,02-10-23,2023,10,642,1.456,NA,NA
+Upper Indrawati Reservoir,Godavari Basin,Indravati,CWC,19.23634733,82.82597886,03-10-23,2023,10,642,1.456,NA,NA
+Upper Indrawati Reservoir,Godavari Basin,Indravati,CWC,19.23634733,82.82597886,04-10-23,2023,10,642,1.456,NA,NA
+Upper Indrawati Reservoir,Godavari Basin,Indravati,CWC,19.23634733,82.82597886,05-10-23,2023,10,642,1.456,1.048,638.1
+Upper Kolab Reservoir,Godavari Basin,Godavari Lower,CWC,18.73049171,82.67554297,01-10-23,2023,10,858,0.935,NA,NA
+Upper Kolab Reservoir,Godavari Basin,Godavari Lower,CWC,18.73049171,82.67554297,02-10-23,2023,10,858,0.935,NA,NA
+Upper Kolab Reservoir,Godavari Basin,Godavari Lower,CWC,18.73049171,82.67554297,03-10-23,2023,10,858,0.935,NA,NA
+Upper Kolab Reservoir,Godavari Basin,Godavari Lower,CWC,18.73049171,82.67554297,04-10-23,2023,10,858,0.935,NA,NA
+Upper Kolab Reservoir,Godavari Basin,Godavari Lower,CWC,18.73049171,82.67554297,05-10-23,2023,10,858,0.935,0.757,856.11
+Upper Tapi\Hatnur Reservoir,Tapi Basin,Tapi Upper,CWC,21.0927119,76.01484897,01-10-23,2023,10,214,0.255,0.2316,213.61
+Upper Tapi\Hatnur Reservoir,Tapi Basin,Tapi Upper,CWC,21.0927119,76.01484897,02-10-23,2023,10,214,0.255,0.2364,213.69
+Upper Tapi\Hatnur Reservoir,Tapi Basin,Tapi Upper,CWC,21.0927119,76.01484897,03-10-23,2023,10,214,0.255,0.245,213.85
+Upper Tapi\Hatnur Reservoir,Tapi Basin,Tapi Upper,CWC,21.0927119,76.01484897,04-10-23,2023,10,214,0.255,0.2468,213.88
+Upper Tapi\Hatnur Reservoir,Tapi Basin,Tapi Upper,CWC,21.0927119,76.01484897,05-10-23,2023,10,214,0.255,0.255,214
+Upper Vaitarana Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.82196378,73.54032901,01-10-23,2023,10,603.5,0.331,0.33003,603.46
+Upper Vaitarana Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.82196378,73.54032901,02-10-23,2023,10,603.5,0.331,0.33046,603.47
+Upper Vaitarana Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.82196378,73.54032901,03-10-23,2023,10,603.5,0.331,0.33046,603.47
+Upper Vaitarana Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.82196378,73.54032901,04-10-23,2023,10,603.5,0.331,0.32961,603.49
+Upper Vaitarana Reservoir,West flowing rivers from Tapi to Tadri Basin,Bhatsol and others,CWC,19.82196378,73.54032901,05-10-23,2023,10,603.5,0.331,0.33088,603.49
+Upper Wardha Reservoir,Godavari Basin,Wardha,CWC,21.31909859,78.08561676,01-10-23,2023,10,342.5,0.564,0.56219,342.5
+Upper Wardha Reservoir,Godavari Basin,Wardha,CWC,21.31909859,78.08561676,02-10-23,2023,10,342.5,0.564,0.56219,342.5
+Upper Wardha Reservoir,Godavari Basin,Wardha,CWC,21.31909859,78.08561676,03-10-23,2023,10,342.5,0.564,0.56219,342.5
+Upper Wardha Reservoir,Godavari Basin,Wardha,CWC,21.31909859,78.08561676,04-10-23,2023,10,342.5,0.564,0.56219,342.5
+Upper Wardha Reservoir,Godavari Basin,Wardha,CWC,21.31909859,78.08561676,05-10-23,2023,10,342.5,0.564,0.56219,342.5
+Urmodi,Krishna Basin,Krishna Upper,CWC,17.67007656,73.89101773,01-10-23,2023,10,696,0.273,NA,NA
+Urmodi,Krishna Basin,Krishna Upper,CWC,17.67007656,73.89101773,02-10-23,2023,10,696,0.273,NA,NA
+Urmodi,Krishna Basin,Krishna Upper,CWC,17.67007656,73.89101773,03-10-23,2023,10,696,0.273,NA,NA
+Urmodi,Krishna Basin,Krishna Upper,CWC,17.67007656,73.89101773,04-10-23,2023,10,696,0.273,NA,NA
+Urmodi,Krishna Basin,Krishna Upper,CWC,17.67007656,73.89101773,05-10-23,2023,10,696,0.273,NA,NA
+Vagai Reservoir,East flowing rivers between Pennar and Kanyakumari Basin,Pamba and others,CWC,10.05277902,77.56976664,01-10-23,2023,10,279.2,0.172,0.0516,272.389
+Vagai Reservoir,East flowing rivers between Pennar and Kanyakumari Basin,Pamba and others,CWC,10.05277902,77.56976664,02-10-23,2023,10,279.2,0.172,0.05171,272.401
+Vagai Reservoir,East flowing rivers between Pennar and Kanyakumari Basin,Pamba and others,CWC,10.05277902,77.56976664,03-10-23,2023,10,279.2,0.172,0.05273,272.489
+Vagai Reservoir,East flowing rivers between Pennar and Kanyakumari Basin,Pamba and others,CWC,10.05277902,77.56976664,04-10-23,2023,10,279.2,0.172,0.05474,272.66
+Vagai Reservoir,East flowing rivers between Pennar and Kanyakumari Basin,Pamba and others,CWC,10.05277902,77.56976664,05-10-23,2023,10,279.2,0.172,0.05653,272.809
+Vanivilasa Sagar,Krishna Basin,Tungabhadra Lower,CWC,13.84343578,76.43549483,01-10-23,2023,10,652.28,0.802,0.6269,649.95
+Vanivilasa Sagar,Krishna Basin,Tungabhadra Lower,CWC,13.84343578,76.43549483,02-10-23,2023,10,652.28,0.802,0.6266,649.93
+Vanivilasa Sagar,Krishna Basin,Tungabhadra Lower,CWC,13.84343578,76.43549483,03-10-23,2023,10,652.28,0.802,0.6263,649.93
+Vanivilasa Sagar,Krishna Basin,Tungabhadra Lower,CWC,13.84343578,76.43549483,04-10-23,2023,10,652.28,0.802,0.626,649.93
+Vanivilasa Sagar,Krishna Basin,Tungabhadra Lower,CWC,13.84343578,76.43549483,05-10-23,2023,10,652.28,0.802,0.6257,649.91
+Watrak,Sabarmati Basin,Sabarmati Upper,CWC,23.32979836,73.45504616,01-10-23,2023,10,136.25,0.154,0.08035,133.87
+Watrak,Sabarmati Basin,Sabarmati Upper,CWC,23.32979836,73.45504616,02-10-23,2023,10,136.25,0.154,0.08035,133.87
+Watrak,Sabarmati Basin,Sabarmati Upper,CWC,23.32979836,73.45504616,03-10-23,2023,10,136.25,0.154,0.08071,133.89
+Watrak,Sabarmati Basin,Sabarmati Upper,CWC,23.32979836,73.45504616,04-10-23,2023,10,136.25,0.154,0.0809,133.9
+Watrak,Sabarmati Basin,Sabarmati Upper,CWC,23.32979836,73.45504616,05-10-23,2023,10,136.25,0.154,0.08108,133.91
+Yeldari Reservoir,Godavari Basin,Godavari Middle,CWC,19.75202254,76.71374568,01-10-23,2023,10,461.77,0.809,0.50433,458.53
+Yeldari Reservoir,Godavari Basin,Godavari Middle,CWC,19.75202254,76.71374568,02-10-23,2023,10,461.77,0.809,0.50433,458.53
+Yeldari Reservoir,Godavari Basin,Godavari Middle,CWC,19.75202254,76.71374568,03-10-23,2023,10,461.77,0.809,0.50433,458.53
+Yeldari Reservoir,Godavari Basin,Godavari Middle,CWC,19.75202254,76.71374568,04-10-23,2023,10,461.77,0.809,0.50433,458.53
+Yeldari Reservoir,Godavari Basin,Godavari Middle,CWC,19.75202254,76.71374568,05-10-23,2023,10,461.77,0.809,0.50433,458.53
+Yeleru,East flowing rivers between Mahanadi and Pennar Basin,Nagvati and other,CWC,17.30370292,82.0514406,01-10-23,2023,10,86.56,0.508,NA,NA
+Yeleru,East flowing rivers between Mahanadi and Pennar Basin,Nagvati and other,CWC,17.30370292,82.0514406,02-10-23,2023,10,86.56,0.508,NA,NA
+Yeleru,East flowing rivers between Mahanadi and Pennar Basin,Nagvati and other,CWC,17.30370292,82.0514406,03-10-23,2023,10,86.56,0.508,NA,NA
+Yeleru,East flowing rivers between Mahanadi and Pennar Basin,Nagvati and other,CWC,17.30370292,82.0514406,04-10-23,2023,10,86.56,0.508,NA,NA
+Yeleru,East flowing rivers between Mahanadi and Pennar Basin,Nagvati and other,CWC,17.30370292,82.0514406,05-10-23,2023,10,86.56,0.508,NA,NA
