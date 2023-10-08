@@ -7,7 +7,6 @@ https://data.gov.in/resource/daily-data-reservoir-level-central-water-commission
 
 Observations:-
 * Sholayar Reservoir has the maximum water level capacity whereas Shetrunji Reservoir has the lowest.
-* 
 
 Citation :-
 Released Under: National Data Sharing and Accessibility Policy (NDSAP)
